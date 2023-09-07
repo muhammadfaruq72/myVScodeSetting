@@ -1,0 +1,45 @@
+{
+  "window.titleBarStyle": "native",
+  "window.commandCenter": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 25
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 25,
+    "fontSize": 11
+  },
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset", // inline titleBar
+    "trafficLightPosition": {
+      // custom position
+      "x": 10,
+      "y": 10
+    }
+  },
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#32AE85",
+    "editorGroupHeader.tabsBackground": "#242938",
+    "tab.activeBackground": "#242938",
+    "activityBar.background": "#11141c",
+    "tab.inactiveBackground": "#242938",
+    "statusBar.background": "#242938",
+    "activityBar.activeBorder": "#1D212F",
+    "sideBar.border": "#11141c",
+    "sideBar.background": "#11141c",
+    "sideBarSectionHeader.background": "#11141c",
+    "list.activeSelectionBackground": "#11141c",
+    "list.inactiveSelectionBackground": "#11141c",
+    "list.inactiveFocusOutline": "#32AE85",
+    "list.focusAndSelectionOutline": "#32AE85"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "update.mode": "none",
+  "workbench.colorTheme": "Blueberry dark theme",
+  "prettier.printWidth": 110
+}
