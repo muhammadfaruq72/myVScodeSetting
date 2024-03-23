@@ -34,7 +34,7 @@
     "activityBar.border": "#ffffff00",
     "scrollbar.shadow": "#ffffff00",
     "editorStickyScroll.border": "#ffffff24",
-    "editorIndentGuide.activeBackground1": "#ffffff"
+    "editorIndentGuide.activeBackground1": "#ffffff9b"
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
