@@ -5,41 +5,43 @@
   "apc.activityBar": {
     "position": "bottom",
     "hideSettings": true,
-    "size": 25
+    "size": 28
   },
   "apc.statusBar": {
     "position": "editor-bottom",
-    "height": 25,
+    "height": 28,
     "fontSize": 11
   },
   "apc.electron": {
-    "titleBarStyle": "hiddenInset", // inline titleBar
+    "titleBarStyle": "hidden",
     "trafficLightPosition": {
       // custom position
       "x": 10,
       "y": 10
     }
   },
+
   "workbench.colorCustomizations": {
-    "tab.activeBorder": "#32AE85",
-    "editorGroupHeader.tabsBackground": "#242938",
-    "tab.activeBackground": "#242938",
-    "activityBar.background": "#11141c",
-    "tab.inactiveBackground": "#242938",
-    "statusBar.background": "#242938",
-    "activityBar.activeBorder": "#1D212F",
-    "sideBar.border": "#11141c",
-    "sideBar.background": "#11141c",
-    "sideBarSectionHeader.background": "#11141c",
-    "list.activeSelectionBackground": "#11141c",
-    "list.inactiveSelectionBackground": "#11141c",
-    "list.inactiveFocusOutline": "#32AE85",
-    "list.focusAndSelectionOutline": "#32AE85"
+    "statusBar.background": "#242529",
+    "statusBar.noFolderBackground": "#242529",
+    "statusBar.debuggingBackground": "#242529",
+    "tab.activeBorder": "#3080f7",
+    "editorGroupHeader.tabsBackground": "#242529",
+    "tab.activeBackground": "#242529",
+    "tab.inactiveBackground": "#242529",
+    "activityBar.activeBorder": "#ffffff00",
+    "statusBar.border": "#ffffff00",
+    "activityBar.border": "#ffffff00",
+    "scrollbar.shadow": "#ffffff00",
+    "editorStickyScroll.border": "#ffffff24",
+    "editorIndentGuide.activeBackground1": "#ffffff"
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "workbench.iconTheme": "material-icon-theme",
   "update.mode": "none",
-  "workbench.colorTheme": "Blueberry dark theme",
-  "prettier.printWidth": 110
+  "workbench.colorTheme": "MacOS Modern Dark - Xcode Default",
+  "prettier.printWidth": 110,
+  "window.customTitleBarVisibility": "never",
+  "workbench.tree.enableStickyScroll": false
 }
